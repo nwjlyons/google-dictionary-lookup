@@ -1,7 +1,7 @@
-google-dictionary-lookup
-========================
+Look up words using Google Dictionary™
+======================================
 
-Highlight a word in Google Chrome then right click to search for the word using Google dictionary.
+Highlight a word in Chrome then right click to search for the word using Google dictionary.
 
 [View plugin in Chrome Web Store][3]
 

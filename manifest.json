@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Look up words using Google Dictionary™",
     "description": "Highlight a word then right click to search for the word using Google dictionary.",
-    "version": "1.0",
+    "version": "1.1",
     "permissions": ["contextMenus"],
     "background": {
         "scripts": ["background.js"]

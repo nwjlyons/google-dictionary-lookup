@@ -5,5 +5,8 @@ Highlight a word in Google Chrome then right click to search for the word using 
 
 ![Screenshot of context menu in Chrome][1]
 
+![Screenshot of Google Dictionary][2]
+
 
   [1]: http://i.stack.imgur.com/iyQoh.png
+  [2]: http://i.stack.imgur.com/K6Yir.png

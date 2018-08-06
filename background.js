@@ -1,6 +1,6 @@
 chrome.contextMenus.create(
     {
-        "title": "Define '%s'",
+        "title": "Define \"%s\"",
         "contexts":["selection"],
         "onclick": function(info, tab){
             chrome.tabs.create(

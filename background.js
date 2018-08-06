@@ -4,7 +4,7 @@ chrome.contextMenus.create(
         "contexts":["selection"],
         "onclick": function(info, tab){
             chrome.tabs.create(
-                {url: "http://www.google.com/search?q=define:" + info.selectionText
+                {url: "http://www.google.com/search?q=define:" + encodeURIComponent(info.selectionText)
             });
         }
 });
